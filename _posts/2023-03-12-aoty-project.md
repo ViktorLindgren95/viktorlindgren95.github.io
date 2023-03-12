@@ -28,9 +28,11 @@ some years are heavily contested, these are the following albums that i consider
 ## 1995: Mobb Deep - The Infamous
 
 ![Mobb Deep - The Infamous](/assets/img/albums/1995.jpg)
-{: .box-note}
+
 **Genre:** HipHop
+
 **Style:** Boom Bap
+
 **Vinyl Status:** Want
 
 ### Review
@@ -44,9 +46,11 @@ Spotify or whatever here?
 ## 1996: Burzum - Filosofem
 
 ![Burzum - Filosofem](/assets/img/albums/1996.jpg)
-{: .box-note}
+
 **Genre:** Black Metal
+
 **Style:** Black Metal, Ambient Black Metal
+
 **Vinyl Status:** Want
 
 ### Review
@@ -60,9 +64,11 @@ Spotify or whatever here?
 ## 1997: Björk - Homogenic
 
 ![Björk - Homogenic](/assets/img/albums/1997.jpg)
-{: .box-note}
+
 **Genre:** Electronic
+
 **Style:** IDM, Synth-pop
+
 **Vinyl Status:** Want
 
 ### Review
@@ -76,9 +82,11 @@ Spotify or whatever here?
 ## 1998: Boards Of Canada - Music Has The Right To Children
 
 ![Boards Of Canada - Music Has The Right To Children](/assets/img/albums/1998.jpg)
-{: .box-note}
+
 **Genre:** Electronic
+
 **Style:** IDM, Ambient, Trip Hop
+
 **Vinyl Status:** Want
 
 ### Review
