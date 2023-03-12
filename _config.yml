@@ -88,7 +88,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
 #  twitter: true
 #  facebook: true
-  linkedin: true
+#  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -263,8 +263,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+#      comments: true  # add comments to all blog posts
+#      social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
