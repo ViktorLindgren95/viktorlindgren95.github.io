@@ -347,11 +347,209 @@ Spotify or whatever here?
 
 ![Death Grips – The Money Store](/assets/img/albums/2012.jpg)
 
-**Genre:** 	Electronic, Hip Hop
+**Genre:**    Electronic, Hip Hop
 
 **Style:** Experimental, Hardcore Hip-Hop, Digital Hardcore
 
 **Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2013: Daft Punk – Random Access Memories
+
+![Death Grips – The Money Store](/assets/img/albums/2012.jpg)
+
+**Genre:**    Electronic, Disco
+
+**Style:** Disco, Funk, Synth-pop, Electro
+
+**Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2013: Daft Punk – Random Access Memories
+
+![Daft Punk – Random Access Memories](/assets/img/albums/2013.jpg)
+
+**Genre:**    Electronic, Disco
+
+**Style:** Disco, Funk, Synth-pop, Electro
+
+**Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2014: Freddie Gibbs & Madlib – Piñata
+
+![Freddie Gibbs & Madlib – Piñata](/assets/img/albums/2014.jpg)
+
+**Genre:**    Hip Hop
+
+**Style:** Gangster Rap, Jazzy Hip-Hop
+
+**Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2015: Kendrick Lamar – To Pimp A Butterfly
+
+![Kendrick Lamar – To Pimp A Butterfly](/assets/img/albums/2015.jpg)
+
+**Genre:**   Hip Hop, Funk/Soul
+
+**Style:** Conscious, Jazzy Hip-hop, G-funk
+
+**Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2016: Danny Brown – Atrocity Exhibition
+
+![Danny Brown – Atrocity Exhibition](/assets/img/albums/2016.jpg)
+
+**Genre:**   Hip Hop, Electronic
+
+**Style:** Experimental , Abstract
+
+**Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2017: Tyler, The Creator – Scum Fuck Flower Boy
+
+![Tyler, The Creator – Scum Fuck Flower Boy](/assets/img/albums/2017.jpg)
+
+**Genre:**   Hip Hop, Funk/Soul
+
+**Style:** Jazzy Hip-hop, Neo Soul , West Coast Hip Hop
+
+**Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2018: Kids See Ghosts – Kids See Ghosts
+
+![Kids See Ghosts – Kids See Ghosts](/assets/img/albums/2018.jpg)
+
+**Genre:**   Pop Rap, Experimental
+
+**Style:** Neo-Psychedelia
+
+**Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2019: Lingua Ignota – Caligula
+
+![Lingua Ignota – Caligula](/assets/img/albums/2019.jpg)
+
+**Genre:**   Electronic
+
+**Style:**    Experimental, Darkwave, Industrial
+
+**Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2020: Jessie Ware – What's Your Pleasure?
+
+![Jessie Ware – What's Your Pleasure?](/assets/img/albums/2020.jpg)
+
+**Genre:**   Electronic, Pop
+
+**Style:**        Disco, House, Electro, Dance-pop, Downtempo
+
+**Vinyl Status:** Want
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2021: Lingua Ignota – Sinner Get Ready
+
+![Lingua Ignota – Sinner Get Ready](/assets/img/albums/2021.jpg)
+
+**Genre:**   Electronic, Rock
+
+**Style:**  Industrial, Classical, Folk, Noise
+
+**Vinyl Status:** Have #TODO INSERT IMAGE
+
+### Review
+
+Input a review perhaps?
+
+### Links
+
+Spotify or whatever here?
+
+## 2022: Black Country, New Road – Ants From Up There
+
+![Black Country, New Road – Ants From Up There](/assets/img/albums/2022.jpg)
+
+**Genre:**   Rock
+
+**Style:**    Art Rock, Post Rock, Alternative Rock
+
+**Vinyl Status:** Have #TODO INSERT IMAGE
 
 ### Review
 
