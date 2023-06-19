@@ -553,11 +553,20 @@ Spotify or whatever here?
 
 ### Review
 
-Input a review perhaps?
+Four days before the release of this record, the singer of the band left the band due, citing mental issues. And what an
+album to leave with.
+This heartfelt and inventive record is the perfect followup to the bands incredible 2021 record, For the first time.
+Barrock pop stylings, Jazz inflections and incredible witty wordplay, this record has a collection of songs that
+resonate me emotionally that few indie rock albums does.
+
+Ive often compared this album to my generations' funeral (the legendary Arcade Fire album), Its such a well crafted and
+incredible record that i cannot say anything more then just call it a modern classic.
+
+#TODO probably rewriting the review to keep a compact style but damn is it good
 
 ### Links
 
-Spotify or whatever here?
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3k2kIiJqUiIP49iUcOLpWT?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
